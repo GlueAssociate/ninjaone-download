@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for NinjaOne.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit NinjaOne on SOFTGIT](https://softgit.pro/p/ninjaone)** — the full listing.
+- 📄 **[NinjaOne web page](https://glueassociate.github.io/ninjaone-download/)** — standalone info page.
+- 🗂️ [More AI & Productivity software](https://softgit.pro/category/ai-productivity)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for NinjaOne. Third-party software; all rights belong to the original authors.
